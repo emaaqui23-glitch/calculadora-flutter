@@ -1,17 +1,19 @@
-# calculadora
+# 🧮 Calculadora Flutter
 
-A new Flutter project.
+Calculadora desenvolvida em Flutter como projeto de estudo, com foco na prática de programação e construção de interfaces.
 
-## Getting Started
+## 📱 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+* Operações matemáticas básicas.
+* Interface personalizada.
+* Histórico de cálculos.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🖼️ Capturas de tela
+
+![Tela da calculadora](calculadora.png/Captura%20de%20tela%202026-10-09%20144220.png)
+https://github.com/emaaqui23-glitch/calculadora-flutter/blob/main/calculadora.png/Captura%20de%20tela%202026-10-09%20144312.png
